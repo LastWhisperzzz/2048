@@ -1,3 +1,3 @@
 # 2048
 
-Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
+[Play it here!](http://2048.lastwhisper.net)
