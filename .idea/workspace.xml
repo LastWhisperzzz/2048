@@ -21,7 +21,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../desktop-nicemusic" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../music" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
@@ -37,6 +37,8 @@
       <workItem from="1604904863345" duration="1720000" />
       <workItem from="1604923021640" duration="848000" />
       <workItem from="1604924074811" duration="11000" />
+      <workItem from="1604990614409" duration="826000" />
+      <workItem from="1605077810836" duration="25000" />
     </task>
     <servers />
   </component>
@@ -44,10 +46,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1604924083653">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605077834463">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604924083653" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605077834463" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1604923968994">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
